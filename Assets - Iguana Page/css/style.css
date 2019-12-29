@@ -1,0 +1,75 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  background-color: black;
+}
+
+nav{
+  width: 100vw;
+}
+
+nav h1{
+  text-align: center;
+}
+
+header{
+  width: 100vw;
+}
+
+.header-imagen{
+  width: 100%;
+}
+
+.descripcion{
+  padding: 50px;
+  width: 100vw;
+}
+
+.descripcion-texto{
+  display: inline-block;
+  text-align: left;
+  font: Light 16px/19px Raleway;
+  letter-spacing: 0;
+  width: 40%;
+  vertical-align: middle;
+}
+
+.descripcion-imagen{
+  display: inline-block;
+  width: 40%;
+  vertical-align: middle;
+}
+
+.caracteristicas{
+  background: #1E1A13;
+  width: 100vw;
+  padding: 40px;
+}
+
+.caracteristicas h2{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.caracteristica{
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+}
+
+.fotos{
+  padding: 50px;
+}
+
+.foto{
+  padding: 10px;
+  width: 316px;
+  height: 202px;
+}
+
+footer{
+  width: 100vw;
+  background: #1E1A13;
+  text-align: center;
+  padding: 30px;
+}
