@@ -31,6 +31,8 @@ header{
   font: Light 16px/19px Raleway;
   letter-spacing: 0;
   width: 40%;
+  padding-left: 20px;
+  padding-right: 20px;
   vertical-align: middle;
 }
 
@@ -38,6 +40,8 @@ header{
   display: inline-block;
   width: 40%;
   vertical-align: middle;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .caracteristicas{
@@ -58,7 +62,7 @@ header{
 }
 
 .fotos{
-  padding: 50px;
+  padding: 60px;
 }
 
 .foto{
